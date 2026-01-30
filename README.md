@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on different Projects, including C#,<br>Databases with SQL & Supabase, Angular, Html-Css-Php-JavaScript, Python AI Development & Visualisations<br>and CMS like Wordpress<br>. also using GitHub, GitLab and Jira-Confluence for Structured Documentation and Work.
+🔭 I’m currently working on different Projects, including C#,<br>Databases with SQL & Supabase, Angular, Html-Css-Php-JavaScript, Python AI Development & Visualisations<br>and CMS like Wordpress<br>. <br>also using GitHub, GitLab and Jira-Confluence for Structured Documentation and Work.<br>
 
 
 # 💻 Tech Stack:
