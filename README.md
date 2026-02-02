@@ -1,5 +1,10 @@
+# Hi there 👋
+
 # 💫 About Me:
+My name is Aimilios Tsiaprazis and i am a Software Developer. I develop and code whatever i can imagine and i like to learn new things everyday.
+
 🔭 I’m currently working on different Projects, including C#,<br>Databases with SQL & Supabase, Angular, Html-Css-Php-JavaScript, Python AI Development & Visualisations<br>and CMS like Wordpress. Also using GitHub, GitLab and Jira-Confluence for Structured Documentation and Work.<br>
+You can contact me directly per Email as it is in my CV or just write me a message at my LinkedIn Account.
 
 
 # 💻 Tech Stack:
