@@ -6,6 +6,8 @@ My name is Aimilios Tsiaprazis and i am a Software Developer. I develop and code
 Angular, Html-Css-Php-JavaScript, Python AI Development & Visualizations
 and CMS like WordPress. Also using GitHub, GitLab and Jira-Confluence for Structured Documentation and Work.
 
+I have published the projects I completed during my four years of education and professional experience. I have also worked on several private projects that are not available in my repositories. Please feel free to contact me if you have any questions.
+
 You can contact me directly per Email as it is in my CV or just write me a message at my LinkedIn Account.
 
 
