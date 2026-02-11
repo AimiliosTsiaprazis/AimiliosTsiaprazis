@@ -2,7 +2,9 @@
 
 My name is Aimilios Tsiaprazis and i am a Software Developer. I develop and code whatever i can imagine and i like to learn new things everyday.
 
-🔭 I’m currently working on different projects, including C#, Databases with SQL & Supabase,
+🧠👨‍💻 About Me
+
+I’m currently working on different projects, including C#, Databases with SQL & Supabase,
 Angular, Html-Css-Php-JavaScript, Python AI Development & Visualizations & Excel, and CMS like WordPress.
 Also using GitHub, GitLab and Jira-Confluence for Structured Documentation and Work.
 I also have basic experience in hosting using Plesk, Hosteurope, SchlundTech, Azure, Netlify and Vercel as well as first experience working with Docker containers.
