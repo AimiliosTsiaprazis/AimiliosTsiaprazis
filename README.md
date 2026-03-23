@@ -5,13 +5,13 @@ My name is Aimilios Tsiaprazis and i am a Software Developer. I develop and code
 🧠👨‍💻 About Me
 
 I’m currently working on different projects, including C#, Databases with SQL & Supabase,
-Angular, Html-Css-Php-JavaScript, Python AI Development & Visualizations & Excel, and CMS like WordPress.
+Angular, Html-Css-Php-JavaScript, Python AI Development & Visualizations & Excel, and CMS like Typo3 and WordPress.
 Also using GitHub, GitLab and Jira-Confluence for Structured Documentation and Work.
 I also have basic experience in hosting using Plesk, Hosteurope, SchlundTech, Azure, Netlify and Vercel as well as first experience working with Docker containers.
 
 I have published the projects I completed during my four years of education and professional experience. I have also worked on several private projects that are not available in my repositories. Please feel free to contact me if you have any questions.
 
-You can contact me directly per Email as it is in my CV or just write me a message at my LinkedIn Account.
+Currently Working Full-Time in Germany as a Software Developer
 
 ⚡ Hobbies & Interests
 
